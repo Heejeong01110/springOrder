@@ -1,0 +1,6 @@
+13:20:52.284 [main] INFO  c.p.k.KdtSpringOrderApplication - Starting KdtSpringOrderApplication using Java 16.0.2 on DESKTOP-G5LM3TV with PID 22120 (D:\SpringBoot\SpringBoot\kdt-spring-order\target\classes started by 123rk in D:\SpringBoot\SpringBoot\kdt-spring-order)
+13:20:52.288 [main] INFO  c.p.k.KdtSpringOrderApplication - The following profiles are active: dev
+13:20:53.073 [main] INFO  c.p.k.KdtSpringOrderApplication - Started KdtSpringOrderApplication in 1.691 seconds (JVM running for 3.316)
+13:23:36.733 [main] INFO  c.p.k.KdtSpringOrderApplication - Starting KdtSpringOrderApplication using Java 16.0.2 on DESKTOP-G5LM3TV with PID 10728 (D:\SpringBoot\SpringBoot\kdt-spring-order\target\classes started by 123rk in D:\SpringBoot\SpringBoot\kdt-spring-order)
+13:23:36.739 [main] INFO  c.p.k.KdtSpringOrderApplication - The following profiles are active: dev
+13:23:37.459 [main] INFO  c.p.k.KdtSpringOrderApplication - Started KdtSpringOrderApplication in 1.231 seconds (JVM running for 2.354)

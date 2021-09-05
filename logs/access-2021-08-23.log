@@ -1,0 +1,51 @@
+17:10:52.757 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@logger name -> com.prgrms.kdtspringorder.OrderTester
+17:10:52.762 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@supportVendors : [default-a, default-b, default-c, default-d]
+17:10:52.762 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@description : default- line 1 hello world
+default- line2 xxxx
+default- line 3
+17:10:52.762 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@getMinimumOrderAmount : 1
+17:11:03.586 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@logger name -> com.prgrms.kdtspringorder.OrderTester
+17:11:03.590 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@supportVendors : [default-a, default-b, default-c, default-d]
+17:11:03.592 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@description : default- line 1 hello world
+default- line2 xxxx
+default- line 3
+17:11:03.592 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@getMinimumOrderAmount : 1
+17:21:08.763 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@logger name -> com.prgrms.kdtspringorder.OrderTester
+17:21:08.770 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@supportVendors : [default-a, default-b, default-c, default-d]
+17:21:08.770 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@description : default- line 1 hello world
+default- line2 xxxx
+default- line 3
+17:21:08.770 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@getMinimumOrderAmount : 1
+17:21:33.625 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@logger name -> com.prgrms.kdtspringorder.OrderTester
+17:21:33.635 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@supportVendors : [default-a, default-b, default-c, default-d]
+17:21:33.635 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@description : default- line 1 hello world
+default- line2 xxxx
+default- line 3
+17:21:33.635 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@getMinimumOrderAmount : 1
+[32m17:25:40.541[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@logger name -> com.prgrms.kdtspringorder.OrderTester
+[32m17:25:40.552[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@supportVendors : [default-a, default-b, default-c, default-d]
+[32m17:25:40.552[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@description : default- line 1 hello world
+default- line2 xxxx
+default- line 3
+[32m17:25:40.552[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@getMinimumOrderAmount : 1
+[2m17:26:01.772[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@logger name -> com.prgrms.kdtspringorder.OrderTester
+[2m17:26:01.778[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@supportVendors : [default-a, default-b, default-c, default-d]
+[2m17:26:01.778[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@description : default- line 1 hello world
+default- line2 xxxx
+default- line 3
+[2m17:26:01.778[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@getMinimumOrderAmount : 1
+[33m17:26:24.172[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@logger name -> com.prgrms.kdtspringorder.OrderTester
+[33m17:26:24.178[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@supportVendors : [default-a, default-b, default-c, default-d]
+[33m17:26:24.179[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@description : default- line 1 hello world
+default- line2 xxxx
+default- line 3
+[33m17:26:24.179[0;39m [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@getMinimumOrderAmount : 1
+[33m17:26:58.353[0;39m [main] [32mINFO [0;39m c.prgrms.kdtspringorder.OrderTester - @@@@@logger name -> com.prgrms.kdtspringorder.OrderTester
+[33m17:26:58.361[0;39m [main] [32mINFO [0;39m c.prgrms.kdtspringorder.OrderTester - @@@@@supportVendors : [default-a, default-b, default-c, default-d]
+[33m17:26:58.361[0;39m [main] [32mINFO [0;39m c.prgrms.kdtspringorder.OrderTester - @@@@@description : default- line 1 hello world
+default- line2 xxxx
+default- line 3
+[33m17:26:58.361[0;39m [main] [32mINFO [0;39m c.prgrms.kdtspringorder.OrderTester - @@@@@getMinimumOrderAmount : 1
+17:48:22.511 [main] INFO  c.p.k.KdtSpringOrderApplication - Starting KdtSpringOrderApplication using Java 16.0.2 on DESKTOP-G5LM3TV with PID 28348 (D:\SpringBoot\SpringBoot\kdt-spring-order\target\classes started by 123rk in D:\SpringBoot\SpringBoot\kdt-spring-order)
+17:48:22.514 [main] INFO  c.p.k.KdtSpringOrderApplication - The following profiles are active: dev
+17:48:23.426 [main] INFO  c.p.k.KdtSpringOrderApplication - Started KdtSpringOrderApplication in 1.713 seconds (JVM running for 3.01)

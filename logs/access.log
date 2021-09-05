@@ -1,0 +1,6 @@
+17:10:22.856 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@logger name -> com.prgrms.kdtspringorder.OrderTester
+17:10:22.862 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@supportVendors : [default-a, default-b, default-c, default-d]
+17:10:22.863 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@description : default- line 1 hello world
+default- line2 xxxx
+default- line 3
+17:10:22.863 [main] INFO  c.prgrms.kdtspringorder.OrderTester - @@@@@getMinimumOrderAmount : 1

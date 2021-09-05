@@ -1,0 +1,13 @@
+kdt:
+  version: "v1.0.5"
+  minimum-order-amount: 3
+  support-vendors: #리스트는 바로 형변환이 안된다. 그래서 스프링부트가 제공해주는 형태로 바꿔야됨
+    - dev-a
+    - dev-b
+    - dev-c
+    - dev-d
+  description: | #|- 이렇게하면 마지막 줄바꿈이 제외됨
+    dev-line 1 hello world
+    dev-line2 xxxx
+    dev-line 3
+#그룹화하기 위해서 많이 사용함. 큰 프로젝트에서 씀. 속성이 다양하기 때문에 그룹화를 먼저 함.
